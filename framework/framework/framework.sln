@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "framework_test", "..\project\VisualStudio\framework_test\framework_test.vcxproj", "{A85C2AFC-3975-41B6-A1F9-C301BE8B6255}"
+	ProjectSection(ProjectDependencies) = postProject
+		{91EF27D9-76E2-406F-8D2E-D75CB7CF6B5F} = {91EF27D9-76E2-406F-8D2E-D75CB7CF6B5F}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "framework", "..\project\VisualStudio\framework\framework.vcxproj", "{91EF27D9-76E2-406F-8D2E-D75CB7CF6B5F}"
 EndProject
