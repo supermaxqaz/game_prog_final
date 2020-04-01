@@ -154,6 +154,7 @@
     <ClCompile Include="..\..\..\source\framework\library_framework.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\include\framework\definitions.h" />
     <ClInclude Include="..\..\..\include\framework\library_framework.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

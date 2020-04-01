@@ -23,5 +23,8 @@
     <ClInclude Include="..\..\..\include\framework\library_framework.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\include\framework\definitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

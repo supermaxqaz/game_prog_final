@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <iostream>
 #include "library_framework.h"
+#include "definitions.h"
 
 using namespace std;
 
