@@ -1,4 +1,6 @@
 #pragma once
+
+//Display Definitions
 #define GS_TICTACTOE_PLAYERS					2
 #define GS_TICTACTOE_BOARD_WIDTH				3
 #define GS_TICTACTOE_BOARD_HEIGHT				3
